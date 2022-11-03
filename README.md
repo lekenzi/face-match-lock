@@ -4,13 +4,13 @@
     <code>pip install -r requirements.txt</code> </li>
 
   <li>And dont forget to add you picture of choice (you pic) </li><br>
-   # Not your FBI Agents picture !!
+  
   <li>And add your image in the program directory</li>
   <li>go to <code>per_face_recognition.py</code> rename the image name from<code>sample1.jpg</code> to the name of the file you have saved in the directory
 </ol>
 
 ## Caution
-
+ # Not your FBI Agents picture !!
 <code>Build Tools for Visual Studio 2019</code> and <code>Visual C++ Build Tools</code> must be installed prior installing the modules from the <b>requirements.txt</b>
 
 ## Warning 
