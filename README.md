@@ -10,7 +10,7 @@
 </ol>
 
 ## Caution
- # Not your FBI Agents picture !!
+ ### Don't add your FBI Agents picture and blame me !!
 <code>Build Tools for Visual Studio 2019</code> and <code>Visual C++ Build Tools</code> must be installed prior installing the modules from the <b>requirements.txt</b>
 
 ## Warning 
