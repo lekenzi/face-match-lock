@@ -10,7 +10,7 @@ def resource_path(relative_path):
     return os.path.join(os.path.abspath("."), relative_path)
 
 
-known_image = face_recognition.load_image_file(resource_path("sample1.jpg"))
+known_image = face_recognition.load_image_file(resource_path("me.jpg"))
 
 # // your main pic
 # other pic
