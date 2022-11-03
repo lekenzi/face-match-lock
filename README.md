@@ -4,7 +4,7 @@
     <code>pip install -r requirements.txt</code> </li>
 
   <li>And dont forget to add you picture of choice (you pic) <br>
-    ### Not your FBI Agents picture !!</li>
+    <b> Not your FBI Agents picture !!</li><b>
   <li>And add your image in the program directory</li>
   <li>go to <code>per_face_recognition.py</code> rename the image name from<code>sample1.jpg</code> to the name of the file you have saved in the directory
 </ol>
