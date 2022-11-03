@@ -1,7 +1,7 @@
 # AI-PROJECT-FOR-SEM-4
-This program is as of now developed only for windows 10 
-Linux/Unix version coming soon 
-For <code>Quartz</code> has to be included (my friend won't let me test it on his Mac so you have to wait for a while)
+This program is as of now developed only for windows 10 <br>
+Linux/Unix version coming soon <br>
+For Mac (M1 or M100) <code>Quartz</code> has to be included (my friend won't let me test it on his Mac so you have to wait for a while) or you can develop it yourself
 <ol>
   <li>Install all the required python modules of the requirements.txt <br>
     <code>pip install -r requirements.txt</code> </li>
