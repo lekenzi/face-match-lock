@@ -17,7 +17,7 @@ Linux/Unix version coming soon <br>
 </ol>
 
 ## Caution
- ### Don't add your FBI Agents picture and blame me !! I can't stress this enough
+ ### Don't add your FBI Agent's picture and blame me !! I can't stress this enough
 <code>Build Tools for Visual Studio 2019</code> and <code>Visual C++ Build Tools</code> must be installed in prior installing the modules from the <b>requirements.txt</b> since dlib is dependent on <code>Visual C++ Build Tools</code>
 
 # Warning 
