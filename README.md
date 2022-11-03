@@ -1,4 +1,4 @@
-# AI-PROJECT-FOR-SEM-4
+# face-match-lock
 This program is as of now developed only for windows 10 <br>
 For Mac <code>Quartz</code> has to included. It contains the windows equivalent functions to perform the necessary operations <br>
 Linux/Unix version coming soon <br>
