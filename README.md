@@ -1,12 +1,12 @@
 # AI-PROJECT-FOR-SEM-4
+<ol>
+  <li>Install all the required python modules of the requirements.txt \n
+    <code>pip install -r requirements.txt</code> </li>
 
-Install all the required python modules of the requirements.txt
-
-<code>pip install -r requirements.txt</code>
-
-And dont forget to add you picture of choice (you pic) 
-##Not your FBI Agents picture !!
-
+  <li>And dont forget to add you picture of choice (you pic) 
+    ###Not your FBI Agents picture !!</li>
+  <li>go to <code>per_face_recognition.py</code> save the image as <code>me.jpg</code></li>
+</ol>
 ## Cautions
 
 <code>Build Tools for Visual Studio 2019</code> and <code>Visual C++ Build Tools</code> must be installed prior installing the modules from the <b>requirements.txt</b>
