@@ -11,9 +11,8 @@ def resource_path(relative_path):
 
 
 known_image = face_recognition.load_image_file(resource_path("me.jpg"))
-
 # // your main pic
-# other pic
+
 
 
 def master():

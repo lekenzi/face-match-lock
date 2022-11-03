@@ -4,3 +4,4 @@ pillow
 cmake
 dlib
 face_recognition
+psutil
