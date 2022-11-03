@@ -1,6 +1,6 @@
 # AI-PROJECT-FOR-SEM-4
 <ol>
-  <li>Install all the required python modules of the requirements.txt \n
+  <li>Install all the required python modules of the requirements.txt <br>
     <code>pip install -r requirements.txt</code> </li>
 
   <li>And dont forget to add you picture of choice (you pic) 
