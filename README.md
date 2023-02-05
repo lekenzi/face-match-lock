@@ -16,15 +16,5 @@ Linux/Unix version coming soon <br>
   <li>go to <code>per_face_recognition.py</code> rename the image name from<code>sample1.jpg</code> to the name of the file you have saved in the directory
 </ol>
 
-## Caution
- ### Don't add your FBI Agent's picture and blame me !! I can't stress this enough
-<code>Build Tools for Visual Studio 2019</code> and <code>Visual C++ Build Tools</code> must be installed before installing the modules from the <b>requirements.txt</b> since dlib is dependent on <code>Visual C++ Build Tools</code>
-
-# Warning 
-#### I'm not responsible if you 2006 laptop melts running this code or stops working or your FBI agents breaks into your laptop 
-#### Im not responsible for any damages caused using this program
-#### And this is a very lame project for your final year engineering project so dont waste your time here
-
-
-#### Any isssues feel free to raise a issue
+#### Feel free to raise any issues faced
 # Thank you !!!
