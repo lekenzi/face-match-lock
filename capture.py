@@ -10,3 +10,4 @@ def cap():
         # cv2.waitKey(0)
         #cv2.destroyWindow(name)
     return name
+# this is for mac support
